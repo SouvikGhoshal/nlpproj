@@ -4,7 +4,6 @@ pandas
 numpy
 scikit-learn
 bson
-re
 matplotlib
 flask_pymongo
 nltk
